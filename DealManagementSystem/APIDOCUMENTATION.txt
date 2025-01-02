@@ -1,0 +1,463 @@
+openapi: 3.0.0
+info:
+  title: Deal Management API
+  description: API for managing deals, hotels, itineraries, and media.
+  version: 1.0.0
+servers:
+  - url: 'http://localhost:5000'
+
+paths:
+  /api/Auth/login:
+    post:
+      summary: Login to the system
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                email:
+                  type: string
+                password:
+                  type: string
+            example:
+              email: "string"
+              password: "string"
+      responses:
+        '200':
+          description: Successful login
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  token:
+                    type: string
+                  email:
+                    type: string
+                  role:
+                    type: string
+                  expiresAt:
+                    type: string
+                    format: date-time
+            example:
+              token: "string"
+              email: "string"
+              role: "string"
+              expiresAt: "2025-01-02T12:22:41.323Z"
+
+  /api/Auth/register:
+    post:
+      summary: Register a new user
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                email:
+                  type: string
+                password:
+                  type: string
+                firstName:
+                  type: string
+                lastName:
+                  type: string
+                role:
+                  type: string
+            example:
+              email: "string"
+              password: "string"
+              firstName: "string"
+              lastName: "string"
+              role: "string"
+      responses:
+        '200':
+          description: Successful registration
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  token:
+                    type: string
+                  email:
+                    type: string
+                  role:
+                    type: string
+                  expiresAt:
+                    type: string
+                    format: date-time
+            example:
+              token: "string"
+              email: "string"
+              role: "string"
+              expiresAt: "2025-01-02T12:22:41.324Z"
+
+  /api/Auth/change-password:
+    post:
+      summary: Change the password of an existing user
+      parameters:
+        - name: currentPassword
+          in: query
+          required: true
+          description: The current password
+          schema:
+            type: string
+        - name: newPassword
+          in: query
+          required: true
+          description: The new password
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Password changed successfully
+
+  /api/Deals:
+    get:
+      summary: Get all available deals
+      responses:
+        '200':
+          description: A list of all deals
+          content:
+            application/json:
+              type: array
+              items:
+                type: object
+                properties:
+                  id:
+                    type: integer
+                  name:
+                    type: string
+                  slug:
+                    type: string
+                  video:
+                    type: string
+                  hotels:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        id:
+                          type: integer
+                        name:
+                          type: string
+                        rate:
+                          type: integer
+                        amenities:
+                          type: string
+                        media:
+                          type: array
+                          items:
+                            type: object
+                            properties:
+                              id:
+                                type: integer
+                              type:
+                                type: string
+                              url:
+                                type: string
+                  itineraries:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        id:
+                          type: integer
+                        name:
+                          type: string
+                        day:
+                          type: integer
+                  createdAt:
+                    type: string
+                    format: date-time
+                  updatedAt:
+                    type: string
+                    format: date-time
+            example:
+              - id: 0
+                name: "string"
+                slug: "string"
+                video: "string"
+                hotels:
+                  - id: 0
+                    name: "string"
+                    rate: 0
+                    amenities: "string"
+                    media:
+                      - id: 0
+                        type: "string"
+                        url: "string"
+                itineraries:
+                  - id: 0
+                    name: "string"
+                    day: 0
+                createdAt: "2025-01-02T12:22:41.326Z"
+                updatedAt: "2025-01-02T12:22:41.326Z"
+
+  /api/Deals/{id}:
+    get:
+      summary: Get details of a specific deal by ID
+      parameters:
+        - name: id
+          in: path
+          required: true
+          description: The ID of the deal to retrieve
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: The details of the specific deal
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  id:
+                    type: integer
+                  name:
+                    type: string
+                  slug:
+                    type: string
+                  video:
+                    type: string
+                  hotels:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        id:
+                          type: integer
+                        name:
+                          type: string
+                        rate:
+                          type: integer
+                        amenities:
+                          type: string
+                        media:
+                          type: array
+                          items:
+                            type: object
+                            properties:
+                              id:
+                                type: integer
+                              type:
+                                type: string
+                              url:
+                                type: string
+                  itineraries:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        id:
+                          type: integer
+                        name:
+                          type: string
+                        day:
+                          type: integer
+                  createdAt:
+                    type: string
+                    format: date-time
+                  updatedAt:
+                    type: string
+                    format: date-time
+            example:
+              id: 0
+              name: "string"
+              slug: "string"
+              video: "string"
+              hotels:
+                - id: 0
+                  name: "string"
+                  rate: 0
+                  amenities: "string"
+                  media:
+                    - id: 0
+                      type: "string"
+                      url: "string"
+              itineraries:
+                - id: 0
+                  name: "string"
+                  day: 0
+              createdAt: "2025-01-02T12:22:41.331Z"
+              updatedAt: "2025-01-02T12:22:41.331Z"
+
+    put:
+      summary: Update details of a specific deal
+      parameters:
+        - name: id
+          in: path
+          required: true
+          description: The ID of the deal to update
+          schema:
+            type: integer
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                id:
+                  type: integer
+                name:
+                  type: string
+                slug:
+                  type: string
+                video:
+                  type: string
+                hotels:
+                  type: array
+                  items:
+                    type: object
+                    properties:
+                      id:
+                        type: integer
+                      name:
+                        type: string
+                      rate:
+                        type: integer
+                      amenities:
+                        type: string
+                      media:
+                        type: array
+                        items:
+                          type: object
+                          properties:
+                            id:
+                              type: integer
+                            type:
+                              type: string
+                            url:
+                              type: string
+                itineraries:
+                  type: array
+                  items:
+                    type: object
+                    properties:
+                      id:
+                        type: integer
+                      name:
+                        type: string
+                      day:
+                        type: integer
+                createdAt:
+                  type: string
+                  format: date-time
+                updatedAt:
+                  type: string
+                  format: date-time
+            example:
+              id: 0
+              name: "string"
+              slug: "string"
+              video: "string"
+              hotels:
+                - id: 0
+                  name: "string"
+                  rate: 0
+                  amenities: "string"
+                  media:
+                    - id: 0
+                      type: "string"
+                      url: "string"
+              itineraries:
+                - id: 0
+                  name: "string"
+                  day: 0
+              createdAt: "2025-01-02T12:22:41.333Z"
+              updatedAt: "2025-01-02T12:22:41.333Z"
+      responses:
+        '200':
+          description: Successful update of the deal
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  id:
+                    type: integer
+                  name:
+                    type: string
+                  slug:
+                    type: string
+                  video:
+                    type: string
+                  hotels:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        id:
+                          type: integer
+                        name:
+                          type: string
+                        rate:
+                          type: integer
+                        amenities:
+                          type: string
+                        media:
+                          type: array
+                          items:
+                            type: object
+                            properties:
+                              id:
+                                type: integer
+                              type:
+                                type: string
+                              url:
+                                type: string
+                  itineraries:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        id:
+                          type: integer
+                        name:
+                          type: string
+                        day:
+                          type: integer
+                  createdAt:
+                    type: string
+                    format: date-time
+                  updatedAt:
+                    type: string
+                    format: date-time
+            example:
+              id: 0
+              name: "string"
+              slug: "string"
+              video: "string"
+              hotels:
+                - id: 0
+                  name: "string"
+                  rate: 0
+                  amenities: "string"
+                  media:
+                    - id: 0
+                      type: "string"
+                      url: "string"
+              itineraries:
+                - id: 0
+                  name: "string"
+                  day: 0
+              createdAt: "2025-01-02T12:22:41.334Z"
+              updatedAt: "2025-01-02T12:22:41.334Z"
+
+    delete:
+      summary: Delete a specific deal
+      parameters:
+        - name: id
+          in: path
+          required: true
+          description: The ID of the deal to delete
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Successfully deleted the deal
