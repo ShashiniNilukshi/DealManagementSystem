@@ -1,0 +1,792 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\services\\dealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\services\\dealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\dtos\\mediadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\dtos\\mediadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\dtos\\dealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\dtos\\dealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\dtos\\itinerarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\dtos\\itinerarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\dtos\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\dtos\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\services\\idealservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\services\\idealservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\validators\\dealcreationvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\validators\\dealcreationvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\models\\deals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\models\\deals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\services\\mediaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\services\\mediaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\services\\itineraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\services\\itineraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\controllers\\dealscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\controllers\\dealscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\services\\iitineraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\services\\iitineraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\models\\itinerary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\models\\itinerary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\dtos\\authresponcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\dtos\\authresponcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\validators\\logindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\validators\\logindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\validators\\registeruserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\validators\\registeruserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\dealmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\dealmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\services\\imediaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\services\\imediaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\dtos\\addmediatodealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\dtos\\addmediatodealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\dtos\\deletedealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\dtos\\deletedealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\interfaces\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\interfaces\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\services\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\services\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\dealmanagementsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\dealmanagementsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\models\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\models\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\models\\mediatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\models\\mediatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\dtos\\additinerarytodealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\dtos\\additinerarytodealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\services\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\services\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\dtos\\updatehotelmediadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\dtos\\updatehotelmediadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|c:\\users\\94783\\desktop\\dealmanagementsystem\\dealmanagementsystem\\dtos\\addhotelmediadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F593936-EDD6-4261-B59E-B4FD53005BAD}|DealManagementSystem\\DealManagementSystem.csproj|solutionrelative:dealmanagementsystem\\dtos\\addhotelmediadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DealService.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Services\\DealService.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Services\\DealService.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Services\\DealService.cs",
+              "RelativeToolTip": "DealManagementSystem\\Services\\DealService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T14:49:41.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDealServices.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Services\\IDealServices.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Services\\IDealServices.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Services\\IDealServices.cs",
+              "RelativeToolTip": "DealManagementSystem\\Services\\IDealServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:54:38.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DealManagementSystem\\data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAYwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:57:05.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DealDto.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\DealDto.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\DTOs\\DealDto.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\DealDto.cs",
+              "RelativeToolTip": "DealManagementSystem\\DTOs\\DealDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:37:19.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotelDto.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\HotelDto.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\DTOs\\HotelDto.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\HotelDto.cs",
+              "RelativeToolTip": "DealManagementSystem\\DTOs\\HotelDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:40:16.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MediaDto.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\MediaDto.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\DTOs\\MediaDto.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\MediaDto.cs",
+              "RelativeToolTip": "DealManagementSystem\\DTOs\\MediaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:40:14.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItineraryDto.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\ItineraryDto.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\DTOs\\ItineraryDto.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\ItineraryDto.cs",
+              "RelativeToolTip": "DealManagementSystem\\DTOs\\ItineraryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:41:02.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Services\\AuthService.cs",
+              "RelativeToolTip": "DealManagementSystem\\Services\\AuthService.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwJoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T08:31:36.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DealCreationValidation.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Validators\\DealCreationValidation.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Validators\\DealCreationValidation.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Validators\\DealCreationValidation.cs",
+              "RelativeToolTip": "DealManagementSystem\\Validators\\DealCreationValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:53:28.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Deals.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Models\\Deals.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Models\\Deals.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Models\\Deals.cs",
+              "RelativeToolTip": "DealManagementSystem\\Models\\Deals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:47:09.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItineraryService.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Services\\ItineraryService.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Services\\ItineraryService.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Services\\ItineraryService.cs",
+              "RelativeToolTip": "DealManagementSystem\\Services\\ItineraryService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:37:52.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Services\\HotelService.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Services\\HotelService.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Services\\HotelService.cs",
+              "RelativeToolTip": "DealManagementSystem\\Services\\HotelService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAQwF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:36:42.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DealsController.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Controllers\\DealsController.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Controllers\\DealsController.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Controllers\\DealsController.cs",
+              "RelativeToolTip": "DealManagementSystem\\Controllers\\DealsController.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAcwCIBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:48:24.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Repository\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "DealManagementSystem\\Repository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:52:34.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "DealManagementSystem\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAjwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:51:38.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IItineraryService.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Services\\IItineraryService.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Services\\IItineraryService.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Services\\IItineraryService.cs",
+              "RelativeToolTip": "DealManagementSystem\\Services\\IItineraryService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:37:14.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MediaService.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Services\\MediaService.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Services\\MediaService.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Services\\MediaService.cs",
+              "RelativeToolTip": "DealManagementSystem\\Services\\MediaService.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAQwJQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:27:10.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Itinerary.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Models\\Itinerary.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Models\\Itinerary.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Models\\Itinerary.cs",
+              "RelativeToolTip": "DealManagementSystem\\Models\\Itinerary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:47:58.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DealManagementSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T08:33:15.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Program.cs",
+              "RelativeToolTip": "DealManagementSystem\\Program.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAYwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:29:40.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthResponceDto.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\AuthResponceDto.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\DTOs\\AuthResponceDto.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\AuthResponceDto.cs",
+              "RelativeToolTip": "DealManagementSystem\\DTOs\\AuthResponceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T08:28:56.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Models\\Hotel.cs",
+              "RelativeToolTip": "DealManagementSystem\\Models\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:47:32.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Validators\\LoginDtoValidator.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Validators\\LoginDtoValidator.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Validators\\LoginDtoValidator.cs",
+              "RelativeToolTip": "DealManagementSystem\\Validators\\LoginDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:42:40.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "DealManagementSystem\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T08:18:03.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterUserDTOValidator.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Validators\\RegisterUserDTOValidator.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Validators\\RegisterUserDTOValidator.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Validators\\RegisterUserDTOValidator.cs",
+              "RelativeToolTip": "DealManagementSystem\\Validators\\RegisterUserDTOValidator.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:26:34.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DealManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DealManagementSystem.csproj",
+              "RelativeDocumentMoniker": "DealManagementSystem\\DealManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DealManagementSystem.csproj",
+              "RelativeToolTip": "DealManagementSystem\\DealManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T09:36:37.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\DTOs\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\RegisterUserDto.cs",
+              "RelativeToolTip": "DealManagementSystem\\DTOs\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T08:11:51.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IMediaService.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Services\\IMediaService.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Services\\IMediaService.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Services\\IMediaService.cs",
+              "RelativeToolTip": "DealManagementSystem\\Services\\IMediaService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:30:55.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddMediatoDealDto.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\AddMediatoDealDto.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\DTOs\\AddMediatoDealDto.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\AddMediatoDealDto.cs",
+              "RelativeToolTip": "DealManagementSystem\\DTOs\\AddMediatoDealDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:08:26.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeleteDealDto.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\DeleteDealDto.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\DTOs\\DeleteDealDto.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\DeleteDealDto.cs",
+              "RelativeToolTip": "DealManagementSystem\\DTOs\\DeleteDealDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:44:31.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Interfaces\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Interfaces\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Interfaces\\UnitOfWork.cs",
+              "RelativeToolTip": "DealManagementSystem\\Interfaces\\UnitOfWork.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswCIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:55:11.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IAuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Services\\IAuthServices.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Services\\IAuthServices.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Services\\IAuthServices.cs",
+              "RelativeToolTip": "DealManagementSystem\\Services\\IAuthServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T08:29:22.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "DealManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\appsettings.json",
+              "RelativeToolTip": "DealManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T11:06:52.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DealManagementSystem\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T14:59:50.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DealManagementSystem.http",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DealManagementSystem.http",
+              "RelativeDocumentMoniker": "DealManagementSystem\\DealManagementSystem.http",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DealManagementSystem.http",
+              "RelativeToolTip": "DealManagementSystem\\DealManagementSystem.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-29T11:02:38.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "DealManagementSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T07:59:20.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "DealManagementSystem\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T08:27:52.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "DealManagementSystem\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:54:16.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "DealManagementSystem\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:46:50.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Models\\Media.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Models\\Media.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Models\\Media.cs",
+              "RelativeToolTip": "DealManagementSystem\\Models\\Media.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:48:20.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MediaType.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Models\\MediaType.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Models\\MediaType.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Models\\MediaType.cs",
+              "RelativeToolTip": "DealManagementSystem\\Models\\MediaType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:40:09.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "DealManagementSystem\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T08:11:09.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Models\\UserRole.cs",
+              "RelativeToolTip": "DealManagementSystem\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T07:57:42.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AddItineraryToDealDto.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\AddItineraryToDealDto.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\DTOs\\AddItineraryToDealDto.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\AddItineraryToDealDto.cs",
+              "RelativeToolTip": "DealManagementSystem\\DTOs\\AddItineraryToDealDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:42:49.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IHotelService.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Services\\IHotelService.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\Services\\IHotelService.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\Services\\IHotelService.cs",
+              "RelativeToolTip": "DealManagementSystem\\Services\\IHotelService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:36:20.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UpdateHotelMediaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\UpdateHotelMediaDTO.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\DTOs\\UpdateHotelMediaDTO.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\UpdateHotelMediaDTO.cs",
+              "RelativeToolTip": "DealManagementSystem\\DTOs\\UpdateHotelMediaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:43:23.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AddHotelMediaDto.cs",
+              "DocumentMoniker": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\AddHotelMediaDto.cs",
+              "RelativeDocumentMoniker": "DealManagementSystem\\DTOs\\AddHotelMediaDto.cs",
+              "ToolTip": "C:\\Users\\94783\\Desktop\\DealManagementSystem\\DealManagementSystem\\DTOs\\AddHotelMediaDto.cs",
+              "RelativeToolTip": "DealManagementSystem\\DTOs\\AddHotelMediaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:38:47.189Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@DealManagementSystem_HostAddress = http://localhost:5289
+
+GET {{DealManagementSystem_HostAddress}}/dealManagement/
+Accept: application/json
+
+###
